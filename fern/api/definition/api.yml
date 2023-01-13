@@ -1,4 +1,4 @@
-name: rivet
+name: api
 display-name: Rivet API
 auth: bearer
 error-discrimination: 
