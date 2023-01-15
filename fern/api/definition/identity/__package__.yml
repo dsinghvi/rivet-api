@@ -40,7 +40,6 @@ services:
             name: SetupIdentityInput
             query-parameters:
               identity_link_token: commons.JWT
-              watch_index: optional<commons.WatchQuery>
           response: SetupIdentityOutput
 
         getProfile: 
